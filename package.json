@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my portfolio website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakealexander/portfolio.git"
+  },
+  "author": "blake hause",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakealexander/portfolio/issues"
+  },
+  "homepage": "https://github.com/blakealexander/portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.0.1",
+    "gulp-livereload": "^4.0.1"
+  }
+}
